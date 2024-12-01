@@ -43,7 +43,7 @@ profiles:
   - align: left
     image: tariq_prof_pic.jpg
     content: about_tariq.md
-    image_circular: false # crops the image to make it circular
+    image_circular: false # crops to circular
     more_info: >
 
 
