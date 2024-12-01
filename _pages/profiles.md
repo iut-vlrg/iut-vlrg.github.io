@@ -10,19 +10,50 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: right
-    image: prof_pic.jpg
-    content: about_einstein.md
+    image: rifat_prof_pic.jpg
+    content: about_rifat.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      
   - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
+    image: ishmam_prof_pic.jpg
+    content: about_ishmam.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+
+  - align: right
+    image: farhan_prof_pic.jpg
+    content: about_farhan.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+
+  - align: left
+    image: reaz_prof_pic.jpg
+    content: about_reaz.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+
+  - align: right
+    image: aashnan_prof_pic.jpg
+    content: about_aashnan.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+
+  - align: left
+    image: tariq_prof_pic.jpg
+    content: about_tariq.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+
+  - align: right
+    image: saikat_prof_pic.jpg
+    content: about_saikat.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+    
+  - align: left
+    image: ajwad_prof_pic.jpg
+    content: about_ajwad.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
 ---
