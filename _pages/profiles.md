@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: people
-description: members of the lab or group
+description: Members of the Vision Language Reading Group
 nav: true
 nav_order: 7
 
@@ -24,6 +24,30 @@ profiles:
   - align: right
     image: farhan_prof_pic.jpg
     content: about_farhan.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+
+  - align: left
+    image: farzana_prof_pic.jpg
+    content: about_farzana.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+
+  - align: right
+    image: sabrina_prof_pic.jpg
+    content: about_sabrina.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+
+  - align: left
+    image: herok_prof_pic.jpg
+    content: about_herok.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+
+  - align: right
+    image: mueeze_prof_pic.jpg
+    content: about_mueeze.md
     image_circular: false # crops the image to make it circular
     more_info: >
 
