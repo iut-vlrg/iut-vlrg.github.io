@@ -46,5 +46,10 @@ profiles:
     image_circular: false # crops to circular
     more_info: >
 
+  - align: right
+    image: ajwad_prof_pic.jpg
+    content: about_ajwad.md
+    image_circular: false # crops to circular
+    more_info: >
 
 ---
