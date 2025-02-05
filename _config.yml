@@ -8,10 +8,8 @@ middle_name: Vision Language
 last_name: Reading Group
 email: you@example.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Webpage for IUT Vision Language Group. Based on a template from [*folio](https://github.com/bogoli/-folio) design.
-footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+  Webpage for IUT Vision Language Reading Group. Based on a template from [*folio](https://github.com/bogoli/-folio) design.
+footer_text: 
 keywords: iut, iut-vlrg, vlrg, vision-language-reading-group, iut-cse # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🧑‍💻 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
@@ -132,7 +130,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Vision Language Reading Group # blog_name will be displayed in your blog page
-blog_description: Exploring the frontiers of vision and language
+blog_description: Exploring the frontiers of vision and language research # blog_description will be displayed in your blog page
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -198,9 +196,9 @@ collections:
     permalink: /:collection/:title/
 
 announcements:
-  enabled: false
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: true
+  scrollable: false # adds a vertical scroll bar if there are more than 3 news items
+  limit: 3 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: false
