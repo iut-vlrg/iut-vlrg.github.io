@@ -9,8 +9,7 @@ profile:
   image: research-paper-cuate.svg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>KB Board Bazar Road</p>
-    <p>Gazipur, Bangladesh</p>
+    <p>K B Bazar Rd, Gazipur 1704, Bangladesh</p>
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
