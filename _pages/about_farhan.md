@@ -1,4 +1,5 @@
 **Md. Farhan Ishmam**  
-Affiliation: Islamic University of Technology (IUT), Ph.D. Student, University of Utah
+Affiliation: Ph.D. Student, University of Utah (UofU)
 NLP · VQA · Multimodal Learning
+
 [Email](mailto:farhanishmam@iut-dhaka.edu)
