@@ -16,22 +16,27 @@ profiles:
     content: about_reaz.md
     more_info: 
 
-  - align: left
+  - align: right
     content: about_tariq.md
     more_info: 
 
-  - align: right
+  - align: left
     content: about_saikat.md
     more_info: 
 
-  - align: left
+  - align: right
     content: about_ajwad.md
     more_info: 
 
 
-  - align: right
+  - align: left
     content: about_aashnan.md
     more_info: 
+
+  - align: left
+    content: about_rafio.md
+    more_info: 
+
 
   - align: right
     content: about_asir.md
