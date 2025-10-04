@@ -19,56 +19,62 @@ profiles:
 
   - align: right
     image: rifat_prof_pic.jpg
-    content: about_rifat.md
+    content: 
     image_circular: false # crops the image to make it circular
     more_info: >
 
   - align: left
     image: ishmam_prof_pic.jpg
-    content: about_ishmam.md
+    content: 
     image_circular: false # crops the image to make it circular
     more_info: >
 
   - align: right
     image: farhan_prof_pic.jpg
-    content: about_farhan.md
+    content: 
     image_circular: false # crops the image to make it circular
     more_info: >
 
 
   - align: left
     image: tauseef_prof_pic.jpg
-    content: about_tauseef.md
+    content: 
     image_circular: false # crops the image to make it circular
     more_info: >
 
   - align: right
     image: nipun_prof_pic.jpg
-    content: about_nipun.md
+    content: 
     image_circular: false # crops the image to make it circular
     more_info: >
 
   - align: left
     image: reaz_prof_pic.jpg
-    content: about_reaz.md
+    content:
     image_circular: false # crops the image to make it circular
     more_info: >
 
   - align: right
     image: aashnan_prof_pic.jpg
-    content: about_aashnan.md
+    content:
     image_circular: false # crops the image to make it circular
     more_info: >
 
   - align: left
     image: tariq_prof_pic.jpg
-    content: about_tariq.md
+    content:
     image_circular: false # crops to circular
     more_info: >
 
   - align: right
     image: ajwad_prof_pic.jpg
-    content: about_ajwad.md
+    content:
+    image_circular: false # crops to circular
+    more_info: >
+
+  - align: right
+    image: ajwad_prof_pic.jpg
+    content:
     image_circular: false # crops to circular
     more_info: >
 
