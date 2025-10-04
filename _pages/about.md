@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: diversity.png
+  image: research-paper-cuate.svg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>KB Board Bazar Road</p>
